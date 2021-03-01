@@ -1,5 +1,4 @@
 const fetch = require('node-fetch');
-const {parse} = require('node-html-parser');
 const beep = require('beepbeep');
 
 const saveMyLife = async () => {
