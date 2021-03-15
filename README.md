@@ -1,5 +1,11 @@
 # survival-bot
 
+Just cu to avaible slots page and filter.
+
+Open chrome dev tools and paste the code from console_bot.js. Hit Enter and wait.
+
+### Outdated ####
+
 Install node and npm.
 
 Run npm install before use.
